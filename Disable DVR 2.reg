@@ -1,0 +1,5 @@
+Windows Registry Editor Version 5.00	    ---Registry File By Techie Savi
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR]
+"value"=dword:00000000 
+
